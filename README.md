@@ -26,4 +26,4 @@ The project demonstrates an end-to-end machine learning solution with the follow
 
 ## Project Report
 
-For a detailed explanation of the project, including methodology and results, please refer to the [Project Report PDF]([link-to-your-report.pdf](https://drive.google.com/file/d/1cXU7dM8-ol7cc30IUUbflw77BQXSO6Iv/view?usp=sharing)).
+For a detailed explanation of the project, including methodology and results, please refer to the [Project Report PDF](https://drive.google.com/file/d/1cXU7dM8-ol7cc30IUUbflw77BQXSO6Iv/view?usp=sharing).
