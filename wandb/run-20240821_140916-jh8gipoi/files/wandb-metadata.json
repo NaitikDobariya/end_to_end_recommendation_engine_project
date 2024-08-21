@@ -1,0 +1,47 @@
+{
+    "os": "Windows-10-10.0.19045-SP0",
+    "python": "3.11.5",
+    "heartbeatAt": "2024-08-21T08:39:19.070965",
+    "startedAt": "2024-08-21T08:39:16.252225",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "C:\\Users\\123na\\Downloads\\recommendation_engine\\run_experimentation_pipeline.py",
+    "codePathLocal": "run_experimentation_pipeline.py",
+    "codePath": "run_experimentation_pipeline.py",
+    "host": "LAPTOP-JMQ07JO8",
+    "username": "123na",
+    "executable": "C:\\Users\\123na\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 1609.0,
+        "min": 0.0,
+        "max": 2112.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1609.0,
+            "min": 0.0,
+            "max": 2112.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 302.34374618530273,
+            "used": 261.6333694458008
+        }
+    },
+    "gpu": "NVIDIA GeForce MX110",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce MX110",
+            "memory_total": 2147483648
+        }
+    ],
+    "memory": {
+        "total": 7.808582305908203
+    }
+}
